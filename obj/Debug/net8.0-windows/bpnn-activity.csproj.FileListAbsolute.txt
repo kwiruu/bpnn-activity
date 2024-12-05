@@ -1,0 +1,16 @@
+C:\Users\keiru\source\repos\bnn-activity\bnn-activity\bin\Debug\net8.0-windows\bpnn-activity.exe
+C:\Users\keiru\source\repos\bnn-activity\bnn-activity\bin\Debug\net8.0-windows\bpnn-activity.deps.json
+C:\Users\keiru\source\repos\bnn-activity\bnn-activity\bin\Debug\net8.0-windows\bpnn-activity.runtimeconfig.json
+C:\Users\keiru\source\repos\bnn-activity\bnn-activity\bin\Debug\net8.0-windows\bpnn-activity.dll
+C:\Users\keiru\source\repos\bnn-activity\bnn-activity\bin\Debug\net8.0-windows\bpnn-activity.pdb
+C:\Users\keiru\source\repos\bnn-activity\bnn-activity\obj\Debug\net8.0-windows\bnn_activity.Form1.resources
+C:\Users\keiru\source\repos\bnn-activity\bnn-activity\obj\Debug\net8.0-windows\bpnn-activity.csproj.GenerateResource.cache
+C:\Users\keiru\source\repos\bnn-activity\bnn-activity\obj\Debug\net8.0-windows\bpnn-activity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\keiru\source\repos\bnn-activity\bnn-activity\obj\Debug\net8.0-windows\bpnn-activity.AssemblyInfoInputs.cache
+C:\Users\keiru\source\repos\bnn-activity\bnn-activity\obj\Debug\net8.0-windows\bpnn-activity.AssemblyInfo.cs
+C:\Users\keiru\source\repos\bnn-activity\bnn-activity\obj\Debug\net8.0-windows\bpnn-activity.csproj.CoreCompileInputs.cache
+C:\Users\keiru\source\repos\bnn-activity\bnn-activity\obj\Debug\net8.0-windows\bpnn-activity.dll
+C:\Users\keiru\source\repos\bnn-activity\bnn-activity\obj\Debug\net8.0-windows\refint\bpnn-activity.dll
+C:\Users\keiru\source\repos\bnn-activity\bnn-activity\obj\Debug\net8.0-windows\bpnn-activity.pdb
+C:\Users\keiru\source\repos\bnn-activity\bnn-activity\obj\Debug\net8.0-windows\bpnn-activity.genruntimeconfig.cache
+C:\Users\keiru\source\repos\bnn-activity\bnn-activity\obj\Debug\net8.0-windows\ref\bpnn-activity.dll
